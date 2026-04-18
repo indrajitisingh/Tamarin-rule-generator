@@ -23,4 +23,4 @@ Server -> User: Token
 pip install streamlit
 streamlit run app.py
 ## 📸 Preview
-![App Screenshot](your-image-name.png)
+![App Screenshot](https://github.com/user-attachments/assets/7e5eda96-1c44-41c6-8d15-64c1b0f5802c)
